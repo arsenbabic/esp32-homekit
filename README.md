@@ -7,6 +7,7 @@ Homekit integration on ESP32 based development board
 - [Arduino IDE 1.8.x](https://www.arduino.cc/en/software)
 - [FastLED](https://github.com/FastLED/FastLED) library
 - [Homekit-ESP32](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP32) library
+- [Adafruit DHT Sensor](https://github.com/adafruit/DHT-sensor-library) library
 
 
 ESP32 development board I am currently using is [Joy-it Node MCU ESP32](https://joy-it.net/en/products/SBC-NodeMCU-ESP32). 
